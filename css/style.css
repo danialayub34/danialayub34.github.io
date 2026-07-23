@@ -7,6 +7,8 @@
   --accent: #5a6f5d;
   --rule: #e5e0d8;
   --measure: 42rem;
+  --serif: Charter, Georgia, 'Times New Roman', serif;
+  --sans: 'Poppins', -apple-system, Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
@@ -17,9 +19,9 @@ body {
   max-width: var(--measure);
   background: var(--bg);
   color: var(--text);
-  font-family: 'Poppins', -apple-system, Arial, sans-serif;
-  font-size: 1.0625rem;
-  line-height: 1.7;
+  font-family: var(--serif);
+  font-size: 1.125rem;
+  line-height: 1.65;
 }
 
 /* Header */
@@ -32,6 +34,10 @@ body {
   margin-bottom: 3rem;
   padding-bottom: 1rem;
   border-bottom: 1px solid var(--rule);
+}
+
+h1, h2, h3, .site-title, .site-header nav a {
+  font-family: var(--sans);
 }
 
 .site-title {
@@ -72,7 +78,7 @@ body {
 .hero-text {
   margin: 0;
   max-width: 55rem;
-  font-family: 'Poppins', -apple-system, Arial, sans-serif;
+  font-family: var(--sans);
   font-weight: 800;
   font-size: clamp(2rem, 6vw, 4.25rem);
   line-height: 1.05;
@@ -81,7 +87,7 @@ body {
 }
 
 .hero-cta {
-  font-family: 'Poppins', -apple-system, Arial, sans-serif;
+  font-family: var(--sans);
   font-weight: 600;
   font-size: 1.05rem;
   color: #ffffff;
