@@ -27,3 +27,9 @@ Throughout his lifetime, early childhood education figure and Mr Romantic himsel
 But I like the idea of being a hommes de lettres, a conveyor of words, a spreader of ideas and thoughts. I like being misinformed and having someone spit in my face "what is this shit" (ok that's the last time I will use that joke). I'd like to be a little like Mr Romantic himself (let me preface this by saying that I call him Mr Romantic because he held a very romantic view of children but of course, I leave the interpretation of why I want to be Mr Romantic up to you).
 
 As such, this repository was birthed out of the idea of letters that I myself lived, breathed and thought by. Who knows if one day, I might reach 16,000 pages myself (simlutaneously hoping everyone has the pleasure of not reading that amount of slop). I hope you enjoy perusing this site while on the toilet, as much as I did writing it, not on the toilet. And if that still doesn't satisfy you, then indeed, *What the hell is this shit.*
+
+~
+
+With love, 
+![The Gruffalo selfie](/img/gruffalo.jpg)
+The man who taxidermied the Gruffalo
