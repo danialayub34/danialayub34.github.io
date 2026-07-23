@@ -2,5 +2,10 @@
   "title": "Thinking Through",
   "author": "Danial Ayub",
   "description": "Notes on early childhood, pedagogy, and everything else — written to think.",
-  "url": ""
+  "url": "",
+  "hero": {
+    "image": "/img/hero.jpg",
+    "text": "where love, joy and my unnecessary opinions come to play",
+    "cta": "be there or be square"
+  }
 }
