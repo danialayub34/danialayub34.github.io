@@ -8,6 +8,8 @@ permalink: /about/
 
 I was first introduced to the word 'impetus' intentionally in writing while doing my final research paper in University (don't worry, it wasn't that fancy, I won't pretend it was worth reading). Impetus means driving the ball forward to force pockets of space out in defence-minded purgatory. Impetus means kick-starting momentum as a protagonist, carry dribble drive pass assist score. Impetus was the word my supervisor, Dr Cynthia, added as a comment into my badly-formatted Google Documents in trying to convert my heap of dung I undeservingly called a "draft" into some semblance of words worth reading.
 
+![how did I even get into a position to share about my research paper at a symposium to poor, innocent juniors](/img/499symposium.jpg)
+
 **So what’s the impetus in all of this?**
 
 I have always wanted to create a repository of knowledge, something that allows me to process the information thrown in my face, usually in such overwhelming and mind-numbing quantity, from various sources and spaces about Early Childhood Care and Education and ideas revolving around it. I have tons and tons of scattered handwritten notes, digital text, failed-to-start blogs, almost like little Horcruxes standing idle (I'm sorry Voldemort got to live extra years), waiting to be processed by this mass of neurons and put out into the world as something original - only to be quickly criticised by readers for "what is this shit".
