@@ -1,5 +1,6 @@
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("img");
 
   // Human-readable date, e.g. "23 July 2026"
   eleventyConfig.addFilter("readableDate", (dateObj) => {
