@@ -166,3 +166,12 @@ hr { border: none; border-top: 1px solid var(--rule); margin: 2.5rem 0; }
   font-size: 0.875rem;
   color: var(--muted);
 }
+
+/* Photo captions: an italic line directly under an image */
+p:has(> img) + p > em:only-child {
+  display: block;
+  text-align: center;
+  font-size: 0.875rem;
+  color: var(--muted);
+  margin-top: -0.75rem;
+}
