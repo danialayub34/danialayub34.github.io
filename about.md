@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: About
+title: impetus.
 permalink: /about/
 ---
 
