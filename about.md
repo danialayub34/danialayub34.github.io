@@ -34,4 +34,4 @@ With love,
 ![The Gruffalo selfie](/img/gruffalo.jpg)
 The man who taxidermied the Gruffalo
 
-yubs
+~yubs~
