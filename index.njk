@@ -1,7 +1,14 @@
 ---
 layout: base.njk
 ---
-<section class="intro">
+{% if site.hero and site.hero.image %}
+<section class="hero" style="background-image: url('{{ site.hero.image }}');">
+  <p class="hero-text">{{ site.hero.text }}</p>
+  <a class="hero-cta" href="#writing">{{ site.hero.cta }} ↓</a>
+</section>
+{% endif %}
+
+<section class="intro" id="writing">
   <p>{{ site.description }}</p>
 </section>
 
