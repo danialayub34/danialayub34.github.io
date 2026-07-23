@@ -1,0 +1,13 @@
+{
+  "name": "danial-blog",
+  "version": "1.0.0",
+  "description": "A personal blog for thinking through writing",
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
